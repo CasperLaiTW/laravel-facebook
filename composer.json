@@ -16,8 +16,8 @@
         "php": "^7.4",
         "facebook/graph-sdk": "^5.7",
         "graham-campbell/manager": "^4.4",
-        "illuminate/contracts": "^7.0",
-        "illuminate/support": "^7.0"
+        "illuminate/contracts": "^7.0|^8.0",
+        "illuminate/support": "^7.0|^8.0"
     },
     "require-dev": {
         "graham-campbell/analyzer": "^3.0",
